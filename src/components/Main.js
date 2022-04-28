@@ -12,7 +12,7 @@ const Main = () => {
             <h3>
                 We will help you <br/>
                 create your <br/>
-                drem design
+                dream design
             </h3>
         </div>
 
